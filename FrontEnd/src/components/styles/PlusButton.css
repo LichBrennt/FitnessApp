@@ -1,0 +1,23 @@
+.plus-button-container{
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+    bottom: 10px;
+    display: flex;
+    font-size: 20px;
+    height: 3.5em;    
+    position: fixed;
+    text-align: center; 
+    right: 10px;
+    width: 3.5em;
+}
+.plus-button-container .link-to{
+    color: white;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    position: absolute;
+    top: 50%;
+    transform: translatey(-50%);
+
+}
